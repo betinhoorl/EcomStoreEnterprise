@@ -1,0 +1,17 @@
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.exe
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.deps.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.runtimeconfig.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.runtimeconfig.dev.json
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.dll
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\bin\Debug\netcoreapp3.1\ESE.Pedido.API.pdb
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\staticwebassets\ESE.Pedido.API.StaticWebAssets.Manifest.cache
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\staticwebassets\ESE.Pedido.API.StaticWebAssets.xml
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.AssemblyInfoInputs.cache
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.AssemblyInfo.cs
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.RazorTargetAssemblyInfo.cache
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.dll
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Pedido.API\obj\Debug\netcoreapp3.1\ESE.Pedido.API.pdb
