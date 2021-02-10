@@ -71,3 +71,7 @@ C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\obj\Debug\netcorea
 C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\obj\Debug\netcoreapp3.1\ESE.Identidade.API.dll
 C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\obj\Debug\netcoreapp3.1\ESE.Identidade.API.pdb
 C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\obj\Debug\netcoreapp3.1\ESE.Identidade.API.csprojAssemblyReference.cache
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\EcomStoreEnterprise\src\Services\ESE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
