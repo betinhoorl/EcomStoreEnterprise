@@ -13,7 +13,8 @@ namespace ESE.Webapp.MVC.Configuration
         {
             services.AddControllersWithViews();
 
-            services.Configure<AppSettings>(configuration);
+            var appSettingsSection = configuration.GetSection("AppSettings");
+            services.Configure<AppSettings>(appSettingsSection);
         }
 
         public static void UseMvcConfiguration(this IApplicationBuilder app, IWebHostEnvironment env)
